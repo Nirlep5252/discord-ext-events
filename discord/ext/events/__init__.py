@@ -20,7 +20,7 @@ from .mixins import EventsMixin
 from . import utils
 
 
-__version__ = "0.1.0a"
+__version__ = "0.1.0a norlap's trash version"
 
 _VersionInfo = namedtuple("_VersionInfo", "major minor micro releaselevel serial")
 version_info = _VersionInfo(major=0, minor=1, micro=0, releaselevel="alpha", serial=0)

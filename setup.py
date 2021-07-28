@@ -15,7 +15,7 @@ setup(
     name="discord-ext-events",
     author="Ext-Creators",
     python_requires=">=3.5.3",
-    url="https://github.com/Ext-Creators/discord-ext-events",
+    url="https://github.com/Nirlep5252/discord-ext-events/",
     version=version,
     packages=["discord.ext.events"],
     license="Apache Software License",
